@@ -1,0 +1,20 @@
+title: "Claude Codeを\"参謀\"にして月3万円稼ぐ — AI×個人開発マネタイズ実践記"
+summary: |
+  Claude Codeを「コードを書くツール」ではなく「収益を生む戦略パートナー」として使う方法。
+  CLAUDE.mdを戦略文書に変え、AIが自律的にタスクを進めるワークフローを構築し、
+  6つの無料ツールサイトを量産して収益化を目指すリアルタイムの実践記録。
+topics: ["claudecode", "個人開発", "収益化", "AI"]
+published: true
+price: 500
+toc_depth: 2
+chapters:
+  - ch01-why-ai-sanbo
+  - ch02-claude-md-strategy
+  - ch03-backlog-autonomous
+  - ch04-six-sites
+  - ch05-monetization-design
+  - ch06-money-ideas
+  - ch07-revenue-check
+  - ch08-real-numbers
+  - ch09-failures
+  - ch10-next-move
